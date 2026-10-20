@@ -6,7 +6,7 @@ int main(void) {
    double result;
     
     scanf("%d",&i);
-    result = i*1.08;
+    result = i*108;
     printf("%d",(int)result);
     return 0;
 }
